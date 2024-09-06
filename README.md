@@ -1,8 +1,8 @@
-Hi there! 👋
+**Hi there!** 👋
 
 I’m a Full-Stack Developer with extensive experience in modern web development, specializing in JavaScript frameworks such as React, Vue, and Next.js, alongside backend technologies like Node.js, PHP/Laravel, and Python/Django. My passion lies in building efficient, scalable applications with clean and maintainable code.
 
-What I Do:
+**What I Do**:
 
 🖥️ Frontend Development: Proficient in React, Vue.js, and TailwindCSS for building dynamic, responsive user interfaces.
 
@@ -14,11 +14,11 @@ What I Do:
 
 🔧 CI/CD & Testing: Integrated CI/CD pipelines and unit testing to maintain high code quality.
 
-Current Focus:
+**Current Focus:**
 
 Currently diving deeper into TypeScript and expanding my knowledge in serverless architectures and cloud-native solutions.
 
-Projects I’ve Worked On:
+**Projects I’ve Worked On:**
 
 🚀 Developed performance-optimized applications for high-traffic environments using Next.js and Vercel.
 
@@ -26,6 +26,6 @@ Projects I’ve Worked On:
 
 📊 Built dynamic, real-time dashboards for financial analysis using React and integrated third-party APIs.
 
-Let’s Connect:
+**Let’s Connect:**
 
 I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or explore my repositories below!
