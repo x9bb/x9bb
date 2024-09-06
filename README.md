@@ -9,6 +9,7 @@ Back End:
 - PHP and PHP frameworks such as Laravel, CodeIgniter, Yii
 - Python and Python frameworks such as Django. FastApi, Flask
 - Node JS, Express JS, Nest JS, GoLang
+  
 CMS development: WordPress, Shopify, SquareSpace
 
 ** Proficient in WordPress **
