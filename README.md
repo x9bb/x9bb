@@ -1,31 +1,33 @@
-**Hi there!** 👋
+I am a Senior Web Developer with over 10 years of experience. 
+As a Full Stack Developer, I have an expertise of Front & Back End development.
+Front End:
+- HTML, CSS, JavaScript modern frameworks such as React, Vue, Angular, Electron JS
+- Bootstrap, TailwindCSS, Material UI, jQuery
+Back End:
+- PHP and PHP frameworks such as Laravel, CodeIgniter, Yii
+- Python and Python frameworks such as Django. FastApi, Flask
+- Node JS, Express JS, Nest JS, GoLang
+CMS development: WordPress, Shopify, SquareSpace
 
-I’m a Full-Stack Developer with extensive experience in modern web development, specializing in JavaScript frameworks such as React, Vue, and Next.js, alongside backend technologies like Node.js, PHP/Laravel, and Python/Django. My passion lies in building efficient, scalable applications with clean and maintainable code.
+** Proficient in WordPress **
+- Much experience in WooCommerce, ACF(Advanced Custom Fields), Gutenberg, Gravity Forms, Tutor LMS, Elementor, WPBakery, WP Rocket, Wordfence, CPT UI and so on
+- Very good at customizing plugins and themes.
+- Much knowledge of WordPress Block Editor for customizing a block and creating a new block.
 
-**What I Do**:
+** Proficient in Shopify **
+- Proficient in Liquid, along with HTML, CSS, JavaScript, and JSON.
+- Experienced in theme customization
 
-🖥️ Frontend Development: Proficient in React, Vue.js, and TailwindCSS for building dynamic, responsive user interfaces.
+** Proficient in React and Vue **
+- Well-versed in building mobile responsive and visual appealing front-end using Material UI, Tailwind CSS, Bootstrap
+- Familiar with Next. Nuxt, Vuex, Qusar
+- Good experience in Redux, Saga, Thunk, Sequelize, Knex
 
-⚙️ Backend Development: Experienced in building RESTful APIs and server-side logic using Node.js, Laravel, Django, and GraphQL.
+** Experienced in API Integration **
 
-🌐 eCommerce Expertise: Skilled in Shopify and WooCommerce development, including custom theme development and plugin creation.
+** Experienced in Payment Gateway Integration **
 
-☁️ Cloud & DevOps: Familiar with AWS, Vercel, and Docker for deploying and managing applications.
+** Database **
+MySQL, MongoDB, GraphQL, PostgreSQL
 
-🔧 CI/CD & Testing: Integrated CI/CD pipelines and unit testing to maintain high code quality.
-
-**Current Focus:**
-
-Currently diving deeper into TypeScript and expanding my knowledge in serverless architectures and cloud-native solutions.
-
-**Projects I’ve Worked On:**
-
-🚀 Developed performance-optimized applications for high-traffic environments using Next.js and Vercel.
-
-🛠️ Created custom WordPress and Shopify plugins to extend functionality and improve user experience.
-
-📊 Built dynamic, real-time dashboards for financial analysis using React and integrated third-party APIs.
-
-**Let’s Connect:**
-
-I’m always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out or explore my repositories below!
+** Familiar with Git, Bitbucket, GitLab **
