@@ -1,8 +1,10 @@
 I am a Senior Web Developer with over 10 years of experience. 
 As a Full Stack Developer, I have an expertise of Front & Back End development.
+
 Front End:
 - HTML, CSS, JavaScript modern frameworks such as React, Vue, Angular, Electron JS
 - Bootstrap, TailwindCSS, Material UI, jQuery
+  
 Back End:
 - PHP and PHP frameworks such as Laravel, CodeIgniter, Yii
 - Python and Python frameworks such as Django. FastApi, Flask
