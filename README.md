@@ -3,7 +3,7 @@ As a Full Stack Developer, I have an expertise of Front & Back End development.
 My passion lies in building efficient, scalable applications with clean and maintainable code.
 
 **Front End:**
-- HTML, CSS, JavaScript modern frameworks such as React, Vue, Angular, Electron JS
+- HTML, CSS, and modern JavaScript frameworks such as React, Gatsby, Vue, Angular, Electron JS
 - Bootstrap, TailwindCSS, Material UI, jQuery
   
 **Back End:**
