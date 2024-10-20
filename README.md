@@ -4,7 +4,7 @@ My passion lies in building efficient, scalable applications with clean and main
 
 **Front End:**
 - HTML, CSS, and modern JavaScript frameworks such as React, Gatsby, Vue, Angular, Electron JS
-- Bootstrap, TailwindCSS, Material UI, jQuery
+- Bootstrap, TailwindCSS, Material UI, Chakra UI, jQuery
   
 **Back End:**
 - PHP and PHP frameworks such as Laravel, CodeIgniter, Yii
