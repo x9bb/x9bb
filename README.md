@@ -10,6 +10,16 @@ My passion lies in building efficient, scalable applications with clean and main
 - PHP and PHP frameworks such as Laravel, CodeIgniter, Yii
 - Python and Python frameworks such as Django. FastApi, Flask
 - Node JS, Express JS, Nest JS, GoLang
+
+**Mobile Development (Hybrid):**
+  React Native
+
+**Progressive Web App (PWA):**
+- Offline operation
+- Background operation
+- Background sync
+- Background fetch
+- Periodic background sync
   
 **CMS development:** WordPress, Shopify, SquareSpace
 
